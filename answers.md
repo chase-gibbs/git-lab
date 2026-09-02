@@ -22,3 +22,9 @@ Date:   Wed Sep 2 22:46:27 2026 +0200
     Initial commit
 Answer 9:
 everything posted onto github and its all up to date
+Answer 10:
+my local file was not updated
+Answer 11:
+it denied my update since my local files were out of date
+Answer 12:
+it added my missing data to README.md
