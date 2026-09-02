@@ -11,3 +11,14 @@ Answer 5:
 now README.md is tracked (marked with green text)
 Answer 6:
 now both files are tracked
+Answer 7:
+On branch master
+nothing to commit, working tree clean
+Answer 8:
+commit 5659888bba8a1237a1d06231dc918341c53960b2 (HEAD -> master)
+Author: chase-gibbs <cg514025@ohio.edu>
+Date:   Wed Sep 2 22:46:27 2026 +0200
+
+    Initial commit
+Answer 9:
+everything posted onto github and its all up to date
