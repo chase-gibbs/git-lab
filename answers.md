@@ -28,3 +28,5 @@ Answer 11:
 it denied my update since my local files were out of date
 Answer 12:
 it added my missing data to README.md
+Answer 13:
+.  ..  .git  .gitignore  README.md
